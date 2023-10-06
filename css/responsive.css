@@ -1,0 +1,402 @@
+/* Normal desktop :992px. LG Device */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.slider-content p {
+    width: 75%;
+}
+.dash-tittle p {
+    width: 55%;
+}
+.profile-pic .author-des span {
+    font-size: 11px;
+}
+.demo-2 .slider-content p {
+    width: 60%;
+}
+.home-sidebar {
+    right: 5%;
+}
+.demo-3 .slider-content p {
+    width: 52%;
+}
+.search-model {
+    width: 60%;
+    left: 20%;
+}
+.tabs-item p {
+    font-size: 13px;
+}
+.tabs a {
+    font-size: 14px;
+    margin-right: 22px;
+}
+.blog-custom {
+    padding-right: 0px;
+}
+.blog-details .blog-custom, .activity-log .blog-custom {
+	padding-right: 20px;
+}
+.text-tr{
+	text-align:right;
+}
+.slider-text-animation {
+    top: 10%;
+}
+
+
+
+
+}
+
+
+
+/* small mobile layout :320px. */
+@media only screen and (max-width: 767px) {
+
+.nav-none{
+	display:none !important;
+}
+#menuToggle {
+    top: 14px;
+    right: 16px;
+}
+.logo {
+    margin-top: 0px;
+    padding: 26px 0;
+}
+.slider-img-animation{
+	display:none;
+}
+.slider-text-animation {
+    top: 0%;
+}
+.header-form{
+	display:none;
+}
+.authors-search.header-form{
+	display:block;
+}
+
+
+.demo-btn {
+    display:none;
+}
+.header-btn{
+	display:none;
+} 
+.header-two .mobile-menu.mainmenu ul li >a {
+    color: #2f2f2f;
+}
+.header-two .mobile-menu.mainmenu ul li >a i {
+    color: #2f2f2f;
+}
+
+
+.slider-content h1 {
+    font-size: 24px;
+}	
+.slider-content p {
+    width: 95%;
+}
+.dash-tittle h2 {
+    font-size: 24px;
+}	
+.dash-tittle {
+    top: 24%;
+    padding: 0px 40px;
+}
+.dash-tittle p{
+	width:100%;
+}
+.dash-tittle {
+    top: 32%;
+    padding: 0px 65px;
+}
+.collection-area .collection-img .collection-icon {
+    right: 196px;
+}
+.profile-pic.author-area {
+    margin-top: 14px;
+    position: absolute;
+    top: -78px;
+    left: 30%;
+}
+
+.authors-bg img {
+    width: 100%;
+}
+.profile-pic .author-img {
+    float: none;
+}
+.demo-2 .slider-content p {
+    width: 100%;
+}
+
+.section-title h2 {
+    font-size: 24px;
+}
+.section-title p {
+    width: 100%;
+}
+
+.action-content h2 {
+    font-size: 24px;
+}
+.action-content p {
+    width: 100%;
+}
+.p-left {
+    padding-left: 0px;
+}
+.action-second.action-content p {
+    width: 100%;
+}
+.brand-active.owl-carousel .owl-item img {
+    width: 50%;
+}
+
+
+.demo-3 .slider-content p {
+    width: 95%;
+}
+.portfolio-menu {
+    margin-bottom: 0px;
+}
+.portfolio-menu button {
+    margin-bottom: 20px;
+}
+.home-sidebar {
+    top: 32px;
+    right: 20%;
+}	
+.header-sidebar {
+    display:block;
+}
+.collect-desc {
+    width: 100%;
+}
+
+.project-area .header-form{
+	display:block;
+}
+.blog-text .article-share .social li {
+    margin-right: 8px;
+}
+.search-model-form input {
+    width: 400px;
+}
+.search-model {
+    width: 100%;
+    height: 70%;
+    left: 0%;
+    top: 24%;
+}
+.blog-text .article-share .social {
+    margin-bottom: 30px;
+}
+#scrollUp {
+    bottom: 30px;
+}
+
+
+.mobile-menu.mainmenu ul li:last-child .sub-menu {
+    height: 250px;
+    overflow-y: scroll;
+}
+.author-area .collect-bg img {
+    width: 100%;
+    height: 200px;
+}
+.breadcrumb-text h1 {
+    font-size: 30px;
+}
+#mobile-menu {
+    padding-top: 30px;
+}
+
+
+.text-tr{
+	text-align:left;
+}
+.collection-area-2 .collect-bg img {
+    height: 200px;
+}
+.banner-inner h1 {
+    font-size: 28px;
+}
+.banner-inner p {
+    width: 100%;
+}
+.demo-tittle p {
+    width: 100%;
+}	
+	
+}
+
+/* Large Mobile layout:550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.nav-none{
+	display:none !important;
+}
+#menuToggle {
+    top: 14px;
+    right: 90px;
+} 
+.header-form{
+	display:none;
+}
+.logo {
+    margin-top: 0px;
+    padding: 26px 0;
+}
+.slider-img-animation{
+	display:none;
+}
+.slider-text-animation {
+    top: 0%;
+}
+.mobile-search-icon{
+    right: 100px;
+    top: 25px;
+}
+.mobile-search .form {
+    margin-top: 80px;
+}
+.mobile-open {
+	right: 55px;
+    background-color: transparent;
+}
+.demo-btn {
+    display:none;
+}
+.mobile-menu ul li {
+    padding: 0 70px;
+}
+.mobile-menu.mainmenu ul li .sub-menu {
+    left: 170px;
+}
+.authors-search.header-form{
+	display:block;
+}
+  
+.home-sidebar {
+    top: 32px;
+    right: 25%;
+}	
+.header-btn{
+	display:none;
+} 
+.header-two .mobile-menu.mainmenu ul li >a {
+    color: #2f2f2f;
+}
+.header-two .mobile-menu.mainmenu ul li >a i {
+    color: #2f2f2f;
+}
+
+.text-tr{
+	text-align:left;
+}
+.slider-content h1 {
+    font-size: 28px;
+}	
+.slider-content p {
+    width: 85%;
+}	
+.dash-tittle h2 {
+    font-size: 28px;
+}	
+.dash-tittle {
+    top: 24%;
+    padding: 0px 40px;
+}
+.dash-tittle p{
+	width:100%;
+}
+.profile-pic .author-img {
+    float: none;
+}
+.demo-2 .slider-content p {
+    width: 92%;
+}
+
+.section-title h2 {
+    font-size: 26px;
+}
+.section-title p {
+    width: 80%;
+}
+
+.action-content h2 {
+    font-size: 26px;
+}
+.action-content p {
+    width: 100%;
+}
+.p-left {
+    padding-left: 0px;
+}
+.action-second.action-content p {
+    width: 100%;
+}
+.profile-pic.author-area {
+    position: absolute;
+    top: 2px;
+    left: 0%;
+}
+
+
+.demo-3 .slider-content p {
+    width: 95%;
+}
+.portfolio-menu {
+    margin-bottom: 0px;
+}
+.portfolio-menu button {
+    margin-bottom: 20px;
+}
+
+.project-area .header-form{
+	display:block;
+}
+
+
+
+.blog-text .article-share .social {
+    margin-bottom: 30px;
+}
+.search-model {
+    width: 85%;
+    left: 8%;
+}
+
+
+.faq-title h3 {
+    font-size: 18px;
+}
+.authors-bg img {
+    width: 100%;
+}
+.mobile-menu.mainmenu ul li:last-child .sub-menu {
+    height: 250px;
+    overflow-y: scroll;
+}
+.collection-area-2 .collect-bg img {
+    height: 200px;
+}
+
+
+.banner-inner h1 {
+    font-size: 30px;
+}
+.banner-inner p {
+    width: 86%;
+}
+.demo-tittle p {
+    width: 85%;
+}	
+	
+	
+
+}
+
