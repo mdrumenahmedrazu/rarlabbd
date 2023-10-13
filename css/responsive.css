@@ -61,8 +61,10 @@
     right: 16px;
 }
 .logo {
+    height: 45%;
+    width: 45%;
     margin-top: 0px;
-    padding: 26px 0;
+    padding: 5px 0;
 }
 .slider-img-animation{
 	display:none;
@@ -247,6 +249,8 @@
 	display:none;
 }
 .logo {
+        height: 60%;
+    width: 60%;
     margin-top: 0px;
     padding: 26px 0;
 }
